@@ -1,0 +1,15 @@
+{
+	"android": {
+		"path": "/path/to/your/android/mountpoint"
+	},
+
+	"banshee": {
+		"db_path": "/path/to/your/banshee/db",
+		"playlist": "lmtoa"
+	},
+
+	"rhythmbox": {
+		"playlists_xml": "/path/to/your/rhythmbox/playlists.xml",
+		"playlist_name":"lmtoa"
+	}
+}
